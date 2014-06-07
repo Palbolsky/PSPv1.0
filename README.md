@@ -3,8 +3,8 @@ PSP v1.0
 =======
 Une documentation ainsi que les sources du Starter-Kit PSP v1.0 sont à votre disposition.<br><br>
 Dans le dossier <b><a href="https://github.com/Palbolsky/PSPv1.0/tree/master/Sources">sources</a></b>, vous trouverez les sources du projet tels que les scripts ou les fichiers .ini composants la base de données.<br><br>
-Dans le dossier <b><a href="https://github.com/Palbolsky/PSPv1.0/tree/master/Release">release</a></b>, vous pourrez télécharger PSP v1.0. Il est nécessaire d'avoir RPG MAKER XP (version 1.05a) pour pouvoir éditer le projet.<br><br>
-Un wiki est disponible pour vous donnez davantage d'informations sur les éléments composants le projet.
+Dans le dossier <b><a href="https://github.com/Palbolsky/PSPv1.0/tree/master/Release">release</a></b>, vous pourrez télécharger PSP v1.0. Il est nécessaire d'avoir RPG MAKER XP (version 1.05a de préférence) pour pouvoir éditer le projet.<br><br>
+Un <b><a href="https://github.com/Palbolsky/PSPv1.0/wiki">wiki</a></b> est disponible pour vous donnez davantage d'informations sur les éléments composants le projet.
 
 ## Crédits
 <b>Palbolsky</b> - Idée et programmation de certaines interfaces et adaptation de certains scripts.<br>
