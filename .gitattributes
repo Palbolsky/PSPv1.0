@@ -34,3 +34,5 @@
 *.ini text=auto
 *.exe binary
 *.dll binary
+*.rar binary
+*.7z binary
