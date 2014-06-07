@@ -2,6 +2,9 @@
 PSP v1.0
 =======
 Documentation et sources du Starter-Kit PSP v1.0.
+Dans le dossier source, vous trouverez les sources du projet tels que les scripts ou les fichiers composants la base de données.
+Dans le dossier release, vous pourrez télécharger PSP v1.0.
+Un wiki est disponible pour vous donnez davantage d'informations sur les éléments composants le projet.
 
 ## Crédits
 <b>Palbolsky</b> - Idée et programmation de certaines interfaces et adaptation de certains scripts.<br>
